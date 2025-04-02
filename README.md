@@ -1,4 +1,5 @@
 Bt1 và bt2 thuộc phần DSLKD
+//
 TH linked queue:
 IsEmpty – Kiểm tra xem hàng đợi có rỗng không  
 IsFull – Kiểm tra xem hàng đợi có đầy không  
